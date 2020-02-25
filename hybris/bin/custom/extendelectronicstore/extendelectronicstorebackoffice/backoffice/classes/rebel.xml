@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://www.zeroturnaround.com">
+  <classpath>
+    <dir name="/Users/mohapsar/Documents/learning/hybris/extending_electronicStore/hybris/bin/custom/extendelectronicstore/extendelectronicstorebackoffice/backoffice/classes" />
+  </classpath>
+</application>

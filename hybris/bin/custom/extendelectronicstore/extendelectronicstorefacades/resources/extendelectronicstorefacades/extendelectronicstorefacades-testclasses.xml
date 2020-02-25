@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><extendelectronicstorefacades><testclass>com.extend.electronicstore.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass><testclass>com.extend.electronicstore.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass></extendelectronicstorefacades></testclasses>
